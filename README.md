@@ -2,7 +2,7 @@
 > Website para empresa do seguimento fitness, com apresentação da empresa, preços e sistema para vendas online. Em produção.
 > Conheça em www.decisionfit.com.br
 
-###### Site desenvolvido em PHP do lado do servidor e Javascript, jquery, css.
+###### Site desenvolvido em PHP, Javascript, jquery, css.
 
 ### Ferramentas
 
